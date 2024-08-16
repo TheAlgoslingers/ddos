@@ -17,13 +17,9 @@
             "thealgoslingers\\": "src"
         },
         "files": [
-            "examples/test.php",
-            "examples/callback.php"
         ]
-    },
+    }, 
     "require": {
-        "php": ">=7.5",
-      "ip2location/ip2location-php": "^9.7",
-        "minimum-stability": "stable"
+      "ip2location/ip2location-php": "^9.7"
     }
 }
