@@ -26,7 +26,7 @@ $ddos->log();
 
 ```
 <?php
-$ddos = new DDoS($ip_addresa, $options);
+$ddos = new DDoS($ip_address, $options);
 ```
 
 ### IP Address
