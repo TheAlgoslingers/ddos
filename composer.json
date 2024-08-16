@@ -1,0 +1,27 @@
+{
+    "name": "thealgoslingers/ddos",
+    "description": "Safeguard your website from DDoS attack.",
+    "keywords": ["library", "ddos", "DDoS attack","thealgoslingers", "the algoslingers", "prevent DDoS attak", "website security"],
+    "type": "library",
+    "require-dev": {
+    "phpunit/phpunit": "^5.7"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thealgoslingers"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "thealgoslingers\\": "src"
+        },
+        "files": [
+            "examples/test.php",
+            "examples/callback.php"
+        ]
+    },
+    "require": {
+      "ip2location/ip2location-php": "^9.7"
+    }
+}
