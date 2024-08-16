@@ -1,5 +1,5 @@
 # ddos
-Safeguard your website from DDoS attack while running your website smoothly
+Protect Your Website from DDoS Attacks
 
 ## Installation
 ```
